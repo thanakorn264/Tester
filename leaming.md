@@ -30,7 +30,7 @@ Node . js
 # การอัพไฟล์ขึ้น Github
 git init
 git add .
-git config --global user.email "anuschai.bsod@gmail.com"
+git config --global user.email "Bankasdf009@gmail.com"
 git config --global user.name "anutchai"
 git config --list
 git branch -M main

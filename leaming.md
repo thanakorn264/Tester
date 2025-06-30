@@ -40,3 +40,18 @@ git remote add origin https://github.com/anutchaimm/firstproject.git
 ให้ดูว่าเป็น main หรือ master
 git push -u origin main
 git push --force origin main
+
+คำสั่งสำหรับการอัพ Code ขึ้น GitHub
+# การอัพไฟล์ขึ้น Github
+git init
+git add .
+git config --global user.email "anuschai.bsod@gmail.com"
+git config --global user.name "anutchai"
+git config --list
+git branch -M main
+git commit -m "first commit"
+git remote add origin https://github.com/anutchaimm/firstproject.git
+
+ให้ดูว่าเป็น main หรือ master
+git push -u origin main
+git push --force origin main
